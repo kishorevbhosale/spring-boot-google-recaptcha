@@ -5,7 +5,7 @@ ___
 ### Register your Application to Google reCAPTCHA v2:
 https://www.google.com/recaptcha/about/
 
-The SECRET KEY will be used as parameter in URL as below.
+The SECRET KEY will be used as parameter in URL : <br/>
 https://www.google.com/recaptcha/api/siteverify?secret=your_secret_key 
 ___
 ### TechStack:
